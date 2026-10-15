@@ -1,0 +1,20 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "This module is created to check if number is a prime number or not",
+  "keywords": [
+    "number",
+    "prime"
+  ],
+  "license": "ISC",
+  "author": "Teguh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teguhrachmadi1206-png/freeCodeCamp-Back-End_Cert-Teguh.git"
+  }
+}
